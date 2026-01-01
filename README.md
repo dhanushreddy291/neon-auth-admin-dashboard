@@ -14,7 +14,7 @@ Internal tools are essential for support and operations teams, but building them
 
 This repository demonstrates how to use the Neon Auth Admin Plugin to build a secure dashboard directly from the frontend. It covers real-world scenarios like moderation and debugging user issues via impersonation.
 
-Follow the full guide on [Neon: Building a User Management Dashboard](https://neon.com/guides/user-management-dashboard-with-neon-auth) for a step-by-step walkthrough.
+Follow the full guide on [Neon: Building an Admin dashboard with Neon Auth](https://neon.com/guides/admin-dashboard-neon-auth) for step-by-step instructions.
 
 ## ✨ Key features
 
@@ -154,6 +154,5 @@ This application uses the Admin methods exposed by `@neondatabase/neon-js`.
 -   [Neon Guide: Building an Admin dashboard with Neon Auth](https://neon.com/guides/admin-dashboard-neon-auth)
 -   [Neon Auth Admin API Reference](https://neon.com/docs/auth/guides/plugins/admin)
 -   [Neon Auth Overview](https://neon.com/docs/auth/overview)
--   [How Neon Auth works](https://neon.com/docs/neon-auth/how-it-works)
 -   [React with Neon Auth UI (UI Components)](https://neon.com/docs/auth/quick-start/react-router-components)
 -   [Neon JavaScript SDK (Auth & Data API)](https://neon.com/docs/reference/javascript-sdk)
