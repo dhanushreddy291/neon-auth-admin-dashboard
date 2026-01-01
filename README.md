@@ -14,7 +14,7 @@ Internal tools are essential for support and operations teams, but building them
 
 This repository demonstrates how to use the Neon Auth Admin Plugin to build a secure dashboard directly from the frontend. It covers real-world scenarios like moderation and debugging user issues via impersonation.
 
-Follow the full guide on [Neon: Building a User Management Dashboard](https://neon.com/guides/user-management-dashboard-with-neon-auth) for a step-by-step walkthrough.
+Follow the full guide on [Neon: Building an Admin dashboard with Neon Auth](https://neon.com/guides/admin-dashboard-neon-auth) for step-by-step instructions.
 
 ## ✨ Key features
 
