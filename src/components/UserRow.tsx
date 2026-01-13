@@ -37,8 +37,8 @@ export function UserRow({ user, refreshData }: { user: UserType; refreshData: ()
 
     return (
         <tr className="hover:bg-gray-50 dark:hover:bg-gray-800">
-            <td className="p-4">{user.name}</td>
-            <td className="p-4">{user.email}</td>
+            <td className="p-4 text-gray-900 dark:text-gray-100">{user.name}</td>
+            <td className="p-4 text-gray-900 dark:text-gray-100">{user.email}</td>
             <td className="p-4">
                 <span className="bg-gray-100 text-gray-600 dark:bg-gray-800 dark:text-gray-300 rounded px-2 py-1 text-xs font-bold uppercase tracking-wide">
                     {user.role || 'user'}

@@ -50,10 +50,10 @@ npm install
 
 1.  Create a new project in the [Neon Console](https://console.neon.tech).
 2.  Navigate to the **Auth** tab and click **Enable**.
-3.  Copy your **Auth Base URL**.
+3.  Copy your **Auth URL**.
 
 <p align="left">
-  <img src="./images/neon-auth-base-url.png" alt="Neon Auth URL" width="500"/> 
+  <img src="./images/neon-auth-url.png" alt="Neon Auth URL" width="500"/> 
 </p>
 
 ### Environment variables

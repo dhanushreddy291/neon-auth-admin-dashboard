@@ -57,7 +57,7 @@ export default function AdminDashboard() {
                             <table className="min-w-full text-sm">
                                 <thead className="bg-gray-100 text-gray-700 dark:bg-gray-700 dark:text-gray-200 sticky top-0 z-10">
                                     <tr>
-                                        <th className="px-4 py-3 text-left font-medium">User ID</th>
+                                        <th className="px-4 py-3 text-left font-medium">User Name</th>
                                         <th className="px-4 py-3 text-left font-medium">Email</th>
                                         <th className="px-4 py-3 text-left font-medium">Role</th>
                                         <th className="px-4 py-3 text-left font-medium">Status</th>
